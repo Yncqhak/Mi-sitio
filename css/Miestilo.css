@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://www.flexera.com/blog/wp-content/uploads/2022/12/1336_SaaS-Manager-Applications-Release-socials-Blog-915x480-1-915x480.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100px;
+    background-color: lightskyblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+h1{
+    color: white;
+    box-shadow: 8px rgb(218, 9, 47);
+}
+
+btn-neon{
+    padding: 15px 30px;
+    color: rgba(220, 13, 227, 0.632);
+    letter-spacing: 4px;
+    font-size: 24px;
+    text-decoration: none;
+    overflow: hidden;
+    transition: 0.1s;
+}
+
+.btn-neon:hover{
+    background: rgba(212, 0, 255, 0.725);
+    box-shadow: 0 0 10px rgb(234, 115, 224), 0 0 40px rgb(234, 117, 224), 0 0 80px rgb(234, 115, 224);
+    transition-delay: 0.2s;
+}
